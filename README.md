@@ -6,3 +6,7 @@ Most of the apps is able to show ads by overcoming the standard adaway adblock ,
 # How to appy?
 
 Its better to use this via adaway so you can get the latest updates
+
+Add this link to host sources in adaway 
+ https://raw.githubusercontent.com/Anoop1507/hosts/master/hosts
+ 

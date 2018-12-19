@@ -15,6 +15,11 @@
 127.0.0.1 metadata.startappservice.com
 127.0.0.1 reports.crashlytics.com
 127.0.0.1 static.xx.fbcdn.net
+127.0.0.1 external.xx.fbcdn.net
+127.0.0.1 scontent.xx.fbcdn.net
+127.0.0.1 androidc.mxplay.com
+127.0.0.1 settings.crashlytics.com
+127.0.0.1 e.crashlytics.com
 # Shareit
 127.0.0.1 tracker.rqmob.com
 127.0.0.1 adimpression.startappservice.com

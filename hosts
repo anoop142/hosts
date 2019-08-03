@@ -1,4 +1,5 @@
 # Blocking ads on specific apps by Anoop
+
 # Mxplayer
 127.0.0.1 mxvp-feature-toggle-prod-1.zenmxapps.com
 127.0.0.1 mxase.clmbtech.com
@@ -63,3 +64,6 @@
 127.0.0.1 pxf-xender2.xenderbox.com
 127.0.0.1 ulogs.umeng.com
 127.0.0.1 plbslog.umeng.com
+#MyJio
+127.0.0.1 jioads.akamaized.net
+127.0.0.1 jioadserver.akamaized.net

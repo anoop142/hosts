@@ -74,3 +74,9 @@
 #MyJio
 127.0.0.1 jioads.akamaized.net
 127.0.0.1 jioadserver.akamaized.net
+
+#Camscanner
+127.0.0.1 open.camscanner.com
+127.0.0.1 mo.camscanner.com
+127.0.0.1 static.intsig.net
+127.0.0.1 api.intsig.net

@@ -79,4 +79,6 @@
 127.0.0.1 open.camscanner.com
 127.0.0.1 mo.camscanner.com
 127.0.0.1 static.intsig.net
-127.0.0.1 api.intsig.net
+
+# WPS Office
+127.0.0.1 abroad-ad.kingsoft-office-service.com

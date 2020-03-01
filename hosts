@@ -86,6 +86,11 @@
 127.0.0.1 ulogs.umeng.com
 127.0.0.1 ulogs.umengcloud.com
 127.0.0.1 plbslog.umeng.com
+127.0.0.1 h5game.zhhainiao.com
+127.0.0.1 t1.xender.com
+127.0.0.1 batch-offer-api.xendercdn.com
+127.0.0.1 xender-gateway.xyx-svc.zhhainiao.com
+
 #MyJio
 127.0.0.1 jioads.akamaized.net
 127.0.0.1 jioadserver.akamaized.net
